@@ -24,7 +24,7 @@ $$
 $$
 1=7.52\times 10^{-3}\ \mathrm{mmHg\cdot Pa^{-1}}
 $$
-とできるはずです。先程の、$p=2.39\times 10^6\ \mathrm{Pa}$という式の両辺にこの式をかければ、
+とできるはずです。このとき左辺の$1$には単位はありません。先程の、$p=2.39\times 10^6\ \mathrm{Pa}$という式の両辺にこの式をかければ、
 $$
 \begin{aligned}
 p&=2.39\times 10^6\ \mathrm{Pa}*7.52\times 10^{-3}\ \mathrm{mmHg\cdot Pa^{-1}}\\
@@ -33,13 +33,13 @@ p&=2.39\times 10^6\ \mathrm{Pa}*7.52\times 10^{-3}\ \mathrm{mmHg\cdot Pa^{-1}}\\
 $$
 と$\mathrm{mmHg}$に換算できます。このように、「1=数字 ［換算後の単位/換算前の単位］」という式を両辺に掛け、単位の約分をすることで単位の換算ができるようになりいます。
 
-## 単位の換算その2
+## 3つの単位に関する換算
 
 標準気圧を単位とした$\mathrm{atm}$では$1\ \mathrm{atm}=760\ \mathrm{mmHg}$です。この式を変形して、
 $$
 \frac{\mathrm{atm}}{\mathrm{mmHg}}=760
 $$
-という式を作ります。このとき右辺には単位はありません。これを$1\ \mathrm{mmHg}=1.33\times10^2\ \mathrm{Pa}$の両辺に掛けると
+という式を作ります。このときも右辺には単位はありません。これを$1\ \mathrm{mmHg}=1.33\times10^2\ \mathrm{Pa}$の両辺に掛けると
 $$
 \begin{aligned}
 1\ \cancel\mathrm{mmHg}*\frac{\mathrm{atm}}{\cancel\mathrm{mmHg}} &= 1\ \mathrm{atm}\\
